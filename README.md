@@ -1,2 +1,3 @@
 # brain-tumor-classification-vgg16
 Brain tumor classification in MRI images using transfer learning with VGG16. Kaggle dataset with 4 classes: glioma, meningioma, pituitary, and no tumor. Preprocessing: resizing to 224x224, normalization, and data augmentation. Training with Adam optimizer and early stopping. Achieved 92% accuracy. Implemented in Python/TensorFlow.
+Este trabajo presenta el desarrollo de un modelo de aprendizaje profundo para la clasificación automática de tumores cerebrales en imágenes de resonancia magnética (MRI) utilizando redes neuronales convolucionales (CNN) y transferencia de aprendizaje con la arquitectura VGG16. Fue entrenado con Optimizador Adam y se implemento Early Stopping. Alcanzo un 92% de accuracy.
